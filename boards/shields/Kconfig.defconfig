@@ -1,0 +1,6 @@
+if SHIELD_rollonble
+
+config ZMK_KEYBOARD_NAME
+    default "rollonble"
+
+endif
